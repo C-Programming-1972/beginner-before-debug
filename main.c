@@ -1,3 +1,12 @@
+/* This code contains bug/bugs that are intended to be solved...
+    You are guaranteed that the Instructor's code (main() function) dosen't contains any bugs
+    Only the code written by Sophia does.
+
+    **CAUTION**
+    You have rights to download and share this file to anyone but,
+        YOU DON'T HAVE RIGHTS TO REPRODUCE OR REDISTRIBUTE THIS FILE IN ANY ONLINE FLATFORMS.
+*/
+
 #include <stdio.h>
 
 // Sophia's Code
